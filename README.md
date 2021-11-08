@@ -1,4 +1,4 @@
-# HuanMa
+# Huan Ma
 
 Master Degree Candidate  
 Tianjin University,  
