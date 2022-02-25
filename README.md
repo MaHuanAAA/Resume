@@ -1,6 +1,4 @@
 
-<img width=10% src="https://github.com/MaHuanAAA/Resume/blob/main/220225112143.jpg">
-
 
 # Huan Ma
 
